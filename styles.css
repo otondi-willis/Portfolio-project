@@ -1,0 +1,33 @@
+#welcome-section{
+    height:100vh;
+  }
+  #navbar{
+    
+    height:50px;
+    background:#c00100;
+  }
+  #navbar ul li{
+    display: inline-block;
+}
+#navbar ul{
+    position:absolute;
+    right:5px;
+}
+.nav ul li a{
+    color:white;
+    padding:5px;
+}
+.nav div{
+    display: inline-block;
+    position:absolute;
+    left:0;
+    padding:15px;
+    font-size: 20px;
+    color:white;
+}
+
+  @media (max-width:600px){
+    .project{
+      width:80%;
+    }
+  }
