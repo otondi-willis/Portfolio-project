@@ -15,6 +15,13 @@
     display: inline-block;
     
 }
+.card-container ul li{
+  display: inline-block;
+  list-style:none;
+    margin:20px;
+    width: 300px;
+
+}
 #navbar ul{
     position:absolute;
     right:5px;
