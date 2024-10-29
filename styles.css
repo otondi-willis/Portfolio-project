@@ -44,6 +44,15 @@
     .project{
       width:80%;
     }
+    #welcome-section{
+      height:100vh;
+      background:#fcf4f4;
+      text-align: center;
+      padding: 20%;
+      margin: 5%;
+      overflow-y:auto;
+      
+    }
   }
 
   footer{
